@@ -1,0 +1,28 @@
+{
+  "name": "garrettbear-design-system",
+  "version": "0.0.0",
+  "description": "Responsive design system built using the latest technologies. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrettbear/designsystem.git"
+  },
+  "keywords": [
+    "design",
+    "system",
+    "ui",
+    "responsive",
+    "modern",
+    "scss",
+    "kit"
+  ],
+  "author": "Garrett Bear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garrettbear/designsystem/issues"
+  },
+  "homepage": "https://github.com/garrettbear/designsystem#readme"
+}
