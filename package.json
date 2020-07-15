@@ -4,7 +4,8 @@
   "description": "Simple design system for everyone. ",
   "main": "index.js",
   "scripts": {
-    "scss": "node-sass --output-style compressed -o dist/css scss"
+    "scss": "node-sass --output-style compressed -o dist/css scss",
+    "css-compile": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 styles/scss/ -o dist/css/"
   },
   "repository": {
     "type": "git",

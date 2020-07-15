@@ -1,7 +1,6 @@
-.bob {
-  background: red;
-  &-green {
-    //Here is a comment
-    background: brown;
-  }
+@import "./colors.scss";
+
+h1 {
+  font-size: 30px;
+  color: $red;
 }
