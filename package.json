@@ -1,6 +1,6 @@
 {
-  "name": "ds-test",
-  "version": "0.0.0",
+  "name": "callmylawyer",
+  "version": "0.1.0",
   "description": "Simple design system for everyone. ",
   "main": "index.js",
   "scripts": {
