@@ -1,4 +1,4 @@
-# GarrettBear Design System
+# GumGum Test Design System
 
 ---
 
@@ -8,4 +8,4 @@ Modern day design system that targets a marketing approach and easy to maintain.
 
 ## Install
 
-`npm i`
+`yarn`
