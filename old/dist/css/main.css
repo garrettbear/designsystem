@@ -1,0 +1,12 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url("../fonts/Public_Sans/PublicSans-VariableFont_wght.ttf");
+}
+
+h1 {
+  font-family: myFirstFont;
+  font-size: 30px;
+  color: #fa0000;
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -1,11 +1,22 @@
-# GumGum Test Design System
+# Storybook HTML
 
----
+This repository demonstrates how to use [Storybook](https://storybook.js.org/) for HTML and CSS/SCSS. You can use this repository as template.
 
-Modern day design system that targets a marketing approach and easy to maintain.
+## Getting Started
 
----
+- Install dependencies with `npm install`.
+- Run Storybook with `npm run storybook`.
 
-## Install
+## Deployment
 
-`yarn`
+You can deploy this Storybook to GitHub Pages with `npm run deploy-storybook`. See [storybook-deployer](https://github.com/storybookjs/storybook-deployer) for more details.
+
+## Tests
+
+This repository validates your HTML, CSS/SCSS and JS code with [HTMLHint](https://htmlhint.com/), [stylelint](https://stylelint.io/) and [ESLint](https://eslint.org/). You can call `npm run test` and/or install editor extensions.
+
+### VSCode extensions
+
+- [HTMLHint extension](https://marketplace.visualstudio.com/items?itemName=ctf0.htmlhint)
+- [stylelint extension](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+- [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)

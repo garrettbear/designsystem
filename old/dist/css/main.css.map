@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"../../styles/scss/main.scss",
+		"../../styles/scss/_colors.scss"
+	],
+	"sourcesContent": [
+		"@import \"./_colors.scss\";\n\n@font-face {\n  font-family: myFirstFont;\n  src: url('../fonts/Public_Sans/PublicSans-VariableFont_wght.ttf');\n}\n\nh1 {\n  font-family: myFirstFont;\n  font-size: 30px;\n  color: $red;\n}\n",
+		"$red: #fa0000;\n"
+	],
+	"names": [],
+	"mappings": "AAEA,UAAU;EACR,WAAW,EAAE,WAAW;EACxB,GAAG,EAAE,4DAA4D;;;AAGnE,AAAA,EAAE,CAAC;EACD,WAAW,EAAE,WAAW;EACxB,SAAS,EAAE,IAAI;EACf,KAAK,ECVD,OAAO;CDWZ"
+}
